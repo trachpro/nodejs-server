@@ -1,0 +1,33 @@
+{
+  "name": "rest-mysql-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "mysql"
+  ],
+  "author": "Nghiem Minh Hoang",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.5",
+    "express": "^4.15.2",
+    "express-session": "^1.14.2",
+    "jsonwebtoken": "^7.2.1",
+    "method-override": "^2.3.7",
+    "morgan": "^1.7.0",
+    "mysql": "^2.13.0",
+    "passport": "^0.3.2",
+    "sequelize": "^3.30.4",
+    "serve-favicon": "^2.3.2"
+  }
+}
