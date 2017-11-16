@@ -12,10 +12,10 @@ var config = {
         },
         port: port,
         dialect: 'mysql',
-        db: 'test',
+        db: 'sql12205387',
         db_port: 3306,
-        user: 'root',
-        pass: ''
+        user: 'sql12205387',
+        pass: 'TunV1ksnaI'
     },
 
     production: {
@@ -26,10 +26,10 @@ var config = {
         },
         port: port,
         dialect: 'mysql',
-        db: 'test',
+        db: 'sql12205387',
         db_port: 8889,
-        user: 'root',
-        pass: ''
+        user: 'sql12205387',
+        pass: 'TunV1ksnaI'
     }
 };
 
