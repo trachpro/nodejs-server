@@ -27,7 +27,7 @@ var config = {
         port: port,
         dialect: 'mysql',
         db: 'sql12205387',
-        db_port: 8889,
+        db_port: 3306,
         user: 'sql12205387',
         pass: 'TunV1ksnaI'
     }
